@@ -1,0 +1,29 @@
+@font-face {
+    font-family: vazir;
+    src: url("fonts/Vazir-Regular.woff") format("woff");
+}
+body{
+    font-family: vazi
+}
+.item{
+    width: 242px;
+    height: 333px;
+    background-color: aqua;
+}
+.item img{
+    padding-top: 15px;
+    margin-right: 62px;
+    display: block;
+    width: 45%;
+}
+.owl-carousel .owl-item img{
+    width: 45% !important;
+}
+.h-item{
+    padding-right: 10px;
+    color: rgb(69, 69, 69);
+}
+.p-item{
+    font-size: 15px;
+    color: rgb(95, 95, 95) ;
+}
